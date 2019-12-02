@@ -3,13 +3,13 @@
 A Spring Boot Project demonstrating how to implement CRUD operations with a User entity through endpoints provided from API, using MVC architecture.
 	
 ## Technologies used:
--Java 1.8
--Lombok
--Spring Boot
--Spring MVC (Payara)
--Spring Data JPA (Hibernate & PostgreSQL)
--Hibernate
--Maven
+- Java 1.8
+- Lombok
+- Spring Boot
+- Spring MVC (Payara)
+- Spring Data JPA (Hibernate & PostgreSQL)
+- Hibernate
+- Maven
 
 ## Installation
 The project is created with Maven, so you just need to import it to your IDE and build the project to resolve the dependencies
